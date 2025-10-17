@@ -1,10 +1,10 @@
 # Laboratorio-Lenguajes-de-Programacion-1
 
 ## Estructura de archivos
-En este repositorio hay dos directorios: rawTarea1 y tarea1. En rawTarea1 están las definiciones de las funciones asignadas en clase para probarlos modularmente en el intérprete
-ghci de Haskell. En tarea1, la estructura de proyecto recomendada por el profesor con las definiciones de las funciones en el archivo Tarea1.hs.
+En este repositorio hay dos directorios: rawTarea1 y tarea1. En rawTarea1 están las definiciones de las funciones asignadas en clase para probarlas individualmente en el intérprete
+ghci de Haskell. En tarea1 está la estructura de proyecto recomendada por el profesor con las definiciones de las funciones en el archivo Tarea1.hs.
 ## Ejecución de tests
-En tarea1 están dos directorio: /src y /test. Para correr los tests en Tests.sh, ejecutar el comando 
+En tarea1 hay dos directorios: /src y /test. Para correr los tests en Tests.sh, ejecutar el comando 
 ```bash
 ghc -i=src test/Tests.hs -o test/Test
 ``` 
