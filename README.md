@@ -10,3 +10,6 @@ ghc -i=src test/Tests.hs -o test/Test
 ``` 
 desde el directorio raíz. Es decir, desde tarea1.
 ghc compila el programa Tests.hs y busca otros módulos en la carpeta /src con la bandera -i. Produce un ejecutable Test en /test
+
+## Notas
+El archivo con las pruebas, Tests.sh en tarea1 fue modificado para incluir más pruebas de las recomendadas por el profesor en el archivo original.
